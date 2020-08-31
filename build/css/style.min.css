@@ -1,0 +1,2 @@
+p{position:relative;margin-top:100px;margin-bottom:100px;padding-left:50px;font-size:50px;color:#008b8b;text-align:center}p::before{content:"";position:absolute;top:50%;left:0;-webkit-transform:translateY(-50%);transform:translateY(-50%);width:16px;height:11px;background-image:url(../img/icon-tw.svg);background-repeat:no-repeat;background-position:0 0}img{display:block;margin:0 auto;margin-bottom:100px}svg{margin:0 auto;margin-bottom:100px}
+/*# sourceMappingURL=style.min.css.map */
